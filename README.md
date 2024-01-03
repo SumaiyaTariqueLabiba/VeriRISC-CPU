@@ -1,4 +1,5 @@
 # VeriRISC-CPU
+## Tools: Cadence xcelium
 ## Datapath
 ![Cadence_VeriRISC_Datapath](https://github.com/SumaiyaTariqueLabiba/VeriRISC-CPU/assets/127126354/098ecd2f-3192-4d06-82e3-772d9b43e387)
 ## Waveforms
